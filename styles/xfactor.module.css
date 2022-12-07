@@ -1,0 +1,10 @@
+.x-factor {
+    padding: 100px;
+    background-image: linear-gradient(to bottom, #4350e5, #436ad8);
+    color: white;
+}
+
+.x-factor-title {
+    font-size: 60px;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.impact {
+    background-color: #010313;
+    color: #e4abff;
+    padding: 100px 0px 200px 0px;
+    text-align: right;
+}
+
+.impact-card {
+    background-image: linear-gradient(to right, #dc02ce , #5c53fe);
+    margin-top: 40px;
+}
+
+.our_impact {
+    font-size: 60px;
+}
+
+.impact-box {
+    padding: 40px 60px;
+}
