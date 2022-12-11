@@ -1,0 +1,25 @@
+.project-section {
+  background-color: #02132b;
+  padding: 100px 0px;
+}
+
+.title {
+  color: #b3bdff;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 60px;
+}
+
+.project-title {
+  color: #b3bdff;
+  font-size: 40px;
+  margin-left: 45px;
+}
+
+.project-box {
+    background-color: #122136;
+}
+
+.project-box:hover {
+    background-image: linear-gradient(to right, #2b7652, #39be9b);
+}

@@ -6,8 +6,8 @@ const Factor = ({ style, img, factorData }) => {
     const {cornerTitle, title, description} = factorData || {}
 
     return (
-        <div className={`rounded-4`} style={style} >
-            <div className="row" >
+        <div className={`rounded-4`} style={style}>
+            <div className="row">
                 <div className="col-md-8 p-5">
                     <p>{cornerTitle}</p>
                     <h1>{title}</h1>

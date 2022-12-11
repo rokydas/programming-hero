@@ -1,0 +1,13 @@
+.faq-section {
+  background-image: linear-gradient(to right, #2253d3, #0f69d7);
+  padding: 100px 0px;
+}
+
+.faq-title {
+  color: white;
+  font-size: 60px;
+}
+
+.panel-default > .panel-heading {
+    background-color:#000;
+}
